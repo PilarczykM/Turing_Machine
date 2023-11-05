@@ -12,7 +12,7 @@ def move_first_letter_to_end(input_text):
     return ''.join(tape)
 
 
-# Przykład użycia:
+# Use case:
 input_text = "ABCDEF"
 result = move_first_letter_to_end(input_text)
-print(result)  # Wynik to "BCDEFA"
+print(result)  # Result "BCDEFA"
