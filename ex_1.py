@@ -17,7 +17,7 @@ def add_one_to_binary_tape(binary_tape):
 
     return ''.join(tape)
 
-# Przykład użycia:
+# Entry value
 binary_number = "1101"
 result = add_one_to_binary_tape(binary_number)
-print(result)  # Wynik to "1110"
+print(result)  # Result is "1110"
