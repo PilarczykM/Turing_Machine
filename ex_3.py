@@ -9,7 +9,7 @@ def replace_a_with_c(input_string):
 
     return ''.join(tape)
 
-# Przykład użycia:
+# Example usecase:
 input_text = "BACA"
 result = replace_a_with_c(input_text)
-print(result)  # Wynik to "BCCC"
+print(result)  # Result "BCCC"
