@@ -10,7 +10,7 @@ def swap_start_and_end_bits(binary_number):
     return ''.join(tape)
 
 
-# Przykład użycia:
+# Use case:
 binary_number = "11010"
 result = swap_start_and_end_bits(binary_number)
-print(result)  # Wynik to "01011"
+print(result)  # Result "01011"
