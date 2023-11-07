@@ -1,6 +1,7 @@
 # Turing_Machine
 
-Assignment from classes
+Assignment from class
+
 This is a simple implementation of a Turing Machine.
 
 ## Overview
